@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "05e52188b48b40f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf0d797abfb991f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03adcddcf05ebfd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dadefc1e6c56917f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5ad08d61592d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa5712c3eb0ee60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c84ed7e11ed01405",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "join",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "806e782b8f1943a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ead10b78f125743",
+    "type": "split",
+    "children": [
+      {
+        "id": "295d4279a015a19a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9958ba4583f1ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb6bc7aef27e42ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6630caad158ecb33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f935d60fd89794e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8fa5712c3eb0ee60",
+  "lastOpenFiles": [
+    "200-Areas/Data/Clausulas Sql/Clausulas de definición de tablas.md"
+  ]
+}
