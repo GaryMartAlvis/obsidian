@@ -37,8 +37,27 @@ SELECT
 		when mora>=1 and mora<=30  then  'Atr'
 		when estado=5 then 'Ven'
 		when estado=6 then 'Eje'
-		end as Estado2
+	end as Estado2
 FROM Finanza_Matriz_Cartera
 WHERE convert(char(10),fecha,101) >= convert(char(10),getdate()-30,101)
 GROUP BY agencia, fecha, Estado, Mora, codigooficial, Oficial
+```
+
+## Case 
+```sql
+SELECT 
+    fecha AS fecha_corte,
+    fechadesembolso AS fecha_desembolso,
+    moneda,
+    CASE
+        WHEN Mora=0 OR Mora IS NULL THEN 'VIG'
+        WHEN Mora>=1 AND Mora <=30 THEN 'ATR'
+        WHEN estado=5 THEN 'VEN'
+        WHEN estado=6 THEN 'EJE'
+    END AS estado_cart,
+    Mora AS dias_mora,
+    fechaincumplido AS fecha_incumplimiento,
+    prevision AS saldo_prevision
+FROM vst_matriz_tbl
+WHERE CONVERT(DATE, fecha) >= CONVERT(DATE, GETDATE()-1)
 ```

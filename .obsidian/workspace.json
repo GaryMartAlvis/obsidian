@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "Consultas SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "file:sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas.md",
+                "file": "Consultas SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas.md",
+                "file": "Consultas SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas.md"
+                "file": "Consultas SQL.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "0b4151e1751227af",
   "lastOpenFiles": [
-    "200-Areas/Terminal/Ambientes virtuales.md",
-    "Tareas.md",
-    "Consultas SQL.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
+    "Tareas.md",
+    "200-Areas/Terminal/Ambientes virtuales.md",
+    "Consultas SQL.md",
     "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
     "test obsidian.md",
     "Formulas M.md",
