@@ -39,3 +39,8 @@ TYPE varchar(16)
 USING SUBSTRING(firstname FROM 1 FOR 16)
 ```
 
+## Convertir columna en llave primaria
+```sql
+ALTER TABLE name_table
+ADD CONSTRAINT name_restriccion PRIMARY KEY(name_column)
+```

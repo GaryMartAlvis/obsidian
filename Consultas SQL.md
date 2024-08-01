@@ -47,16 +47,27 @@ GROUP BY agencia, fecha, Estado, Mora, codigooficial, Oficial
 ```sql
 SELECT 
     fecha AS fecha_corte,
+    prestamo AS nro_prestamo,
+    nrosocio AS nro_socio,
+    CarnetSocio AS nro_ci,
+    nombrecliente AS nombre_cliente,
     fechadesembolso AS fecha_desembolso,
     moneda,
+    montodesembolso AS monto_desembolsado,
     CASE
-        WHEN Mora=0 OR Mora IS NULL THEN 'VIG'
-        WHEN Mora>=1 AND Mora <=30 THEN 'ATR'
+        WHEN estado=2 AND Mora=0 OR Mora IS NULL THEN 'VIG'
+        WHEN estado=2 AND Mora>=1 THEN 'ATR'
         WHEN estado=5 THEN 'VEN'
         WHEN estado=6 THEN 'EJE'
     END AS estado_cart,
     Mora AS dias_mora,
     fechaincumplido AS fecha_incumplimiento,
+    calificacion,
+    Tasa AS tasa,
+    Oficial AS nombre_oficial,
+    agencia AS cod_agencia,
+    codigooficial AS codigo_oficial,
+    TotalCartera AS saldo_cartera,
     prevision AS saldo_prevision
 FROM vst_matriz_tbl
 WHERE CONVERT(DATE, fecha) >= CONVERT(DATE, GETDATE()-1)

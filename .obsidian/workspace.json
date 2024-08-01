@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultas SQL.md",
+                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:sql",
+                "query": "CONSTRA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consultas SQL.md",
+                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consultas SQL.md",
+                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultas SQL.md"
+                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md"
               }
             }
           }
@@ -161,16 +161,18 @@
   },
   "active": "0b4151e1751227af",
   "lastOpenFiles": [
+    "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
+    "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
+    "Consultas SQL.md",
+    "Sin título.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
     "Tareas.md",
     "200-Areas/Terminal/Ambientes virtuales.md",
-    "Consultas SQL.md",
     "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
     "test obsidian.md",
     "Formulas M.md",
     "Formulas DAX.md",
     "200-Areas/Terminal/Git.md",
-    "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
     "200-Areas/Definitions/Gateway.md",
     "200-Areas/Definitions/Firewall.md",
     "200-Areas/Definitions/bytecode.md",
@@ -184,8 +186,6 @@
     "200-Areas/Data/Clausulas Sql/FROM.md",
     "200-Areas/Data/Clausulas Sql/DROP TABLE.md",
     "200-Areas/Data/Clausulas Sql/DISTINCT.md",
-    "200-Areas/Data/Clausulas Sql/CREATE TABLE.md",
-    "200-Areas/Data/Clausulas Sql/Clausulas de selección.md",
-    "200-Areas/Data/Clausulas Sql/Clausulas de ordenamiento y limitación.md"
+    "200-Areas/Data/Clausulas Sql/CREATE TABLE.md"
   ]
 }
