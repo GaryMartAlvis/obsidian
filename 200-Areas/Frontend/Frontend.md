@@ -1,2 +1,2 @@
 [[Programación]]
-[[Html]] | [[Css]]
+[[Html]] | [[Css]] | [[Javascript]]

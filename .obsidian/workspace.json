@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
+                "file": "200-Areas/Frontend/Javascript/Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CONSTRA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
+                "file": "200-Areas/Frontend/Javascript/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
+                "file": "200-Areas/Frontend/Javascript/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md"
+                "file": "200-Areas/Frontend/Javascript/Variables.md"
               }
             }
           }
@@ -159,10 +159,19 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "0b4151e1751227af",
+  "active": "c84ed7e11ed01405",
   "lastOpenFiles": [
-    "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
+    "200-Areas/Frontend/Javascript/EMAC Script.md",
+    "200-Areas/Frontend/Javascript/Variables.md",
+    "200-Areas/Frontend/Javascript/Javascript.md",
+    "200-Areas/Languages/Conceptos/Convensiones.md",
+    "200-Areas/Languages/Conceptos/Programación Orientada a Objetos - POO.md",
+    "200-Areas/Languages/Conceptos/Refactorización.md",
+    "200-Areas/Languages/Conceptos",
+    "200-Areas/Frontend/Javascript",
+    "200-Areas/Frontend/Frontend.md",
     "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
+    "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
     "Consultas SQL.md",
     "Sin título.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
@@ -179,13 +188,6 @@
     "200-Areas/Data/Relaciones de tablas.md",
     "200-Areas/Data/Clausulas Sql/SELECT.md",
     "200-Areas/Data/Clausulas Sql/Schema data base.md",
-    "200-Areas/Data/Clausulas Sql/INSERT INTO.md",
-    "200-Areas/Data/Clausulas Sql/HAVING.md",
-    "200-Areas/Data/Clausulas Sql/GROUP BY.md",
-    "200-Areas/Data/Clausulas Sql/Funciones de agregación.md",
-    "200-Areas/Data/Clausulas Sql/FROM.md",
-    "200-Areas/Data/Clausulas Sql/DROP TABLE.md",
-    "200-Areas/Data/Clausulas Sql/DISTINCT.md",
-    "200-Areas/Data/Clausulas Sql/CREATE TABLE.md"
+    "200-Areas/Data/Clausulas Sql/INSERT INTO.md"
   ]
 }
