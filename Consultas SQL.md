@@ -72,3 +72,26 @@ SELECT
 FROM vst_matriz_tbl
 WHERE CONVERT(DATE, fecha) >= CONVERT(DATE, GETDATE()-1)
 ```
+
+## Agrupaciones
+```sql
+SELECT 
+    ISNULL(
+        CASE
+            WHEN estado=2 AND (Mora=0 OR Mora IS NULL) THEN 'VIG'
+            WHEN estado=2 AND Mora>=1 THEN 'ATR'
+            WHEN estado=5 THEN 'VEN'
+            WHEN estado=6 THEN 'EJE'
+        END, 'TOTAL') AS estado_cart,
+    FORMAT(SUM(TotalCartera), 'N0', 'en-US') AS saldo_cartera 
+FROM vst_matriz_tbl
+WHERE CONVERT(DATE, fecha) = '2024/07/31'
+GROUP BY 
+    CASE
+        WHEN estado=2 AND (Mora=0 OR Mora IS NULL) THEN 'VIG'
+        WHEN estado=2 AND Mora>=1 THEN 'ATR'
+        WHEN estado=5 THEN 'VEN'
+        WHEN estado=6 THEN 'EJE'
+    END
+WITH ROLLUP;
+```

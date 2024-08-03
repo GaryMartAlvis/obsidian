@@ -1,3 +1,9 @@
+[L,M,M,J,V,S] Dashboard-SIG de MORA
+[L,M,M,J,V,S] Dashboard-SIG de CRÉDITO
+[L,M,M,J,V,S] Dashboard-SIG de CAPTACIONES
+[L,M,M,J,V] Reporte automatizado Lic. Pablo
+
+---
 [-] Crear control vencimiento de DPF de ME
 		- ME
 		- Tasas preferenciales

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultas SQL.md",
+                "file": "200-Areas/Frontend/Javascript/DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Variables.md",
+                "file": "Tareas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Variables.md",
+                "file": "200-Areas/Frontend/Javascript/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Variables.md",
+                "file": "200-Areas/Frontend/Javascript/DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Variables.md"
+                "file": "200-Areas/Frontend/Javascript/DOM.md"
               }
             }
           }
@@ -159,10 +158,19 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "c84ed7e11ed01405",
+  "active": "58941f5a4f20de34",
   "lastOpenFiles": [
-    "200-Areas/Frontend/Javascript/EMAC Script.md",
+    "200-Areas/Frontend/Javascript/Funciones.md",
+    "200-Areas/Frontend/Javascript/DOM.md",
+    "200-Areas/Frontend/Javascript/Bucles.md",
+    "200-Areas/Frontend/Javascript/Condicionales.md",
+    "200-Areas/Frontend/Javascript/Operadores.md",
+    "200-Areas/Frontend/Javascript/Tipo de datos.md",
     "200-Areas/Frontend/Javascript/Variables.md",
+    "200-Areas/Languages/Conceptos/Métodos HTTP.md",
+    "Consultas SQL.md",
+    "Tareas.md",
+    "200-Areas/Frontend/Javascript/EMAC Script.md",
     "200-Areas/Frontend/Javascript/Javascript.md",
     "200-Areas/Languages/Conceptos/Convensiones.md",
     "200-Areas/Languages/Conceptos/Programación Orientada a Objetos - POO.md",
@@ -172,22 +180,13 @@
     "200-Areas/Frontend/Frontend.md",
     "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
     "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
-    "Consultas SQL.md",
     "Sin título.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
-    "Tareas.md",
     "200-Areas/Terminal/Ambientes virtuales.md",
     "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
     "test obsidian.md",
     "Formulas M.md",
     "Formulas DAX.md",
-    "200-Areas/Terminal/Git.md",
-    "200-Areas/Definitions/Gateway.md",
-    "200-Areas/Definitions/Firewall.md",
-    "200-Areas/Definitions/bytecode.md",
-    "200-Areas/Data/Relaciones de tablas.md",
-    "200-Areas/Data/Clausulas Sql/SELECT.md",
-    "200-Areas/Data/Clausulas Sql/Schema data base.md",
-    "200-Areas/Data/Clausulas Sql/INSERT INTO.md"
+    "200-Areas/Terminal/Git.md"
   ]
 }
