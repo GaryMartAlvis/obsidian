@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/DOM.md",
+                "file": "Tareas.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "200-Areas/Frontend/Javascript/Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ce0c0883839a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: dato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/DOM.md",
+                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/DOM.md",
+                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/DOM.md"
+                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md"
               }
             }
           }
@@ -158,35 +171,38 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "58941f5a4f20de34",
+  "active": "21ce0c0883839a66",
   "lastOpenFiles": [
-    "200-Areas/Frontend/Javascript/Funciones.md",
+    "200-Areas/Frontend/Css/flexbox.md",
+    "200-Areas/Frontend/Html/table.md",
+    "200-Areas/Frontend/Html",
+    "Sin nombre",
+    "200-Areas/Frontend/Javascript/Tipo de datos.md",
+    "200-Areas/Frontend/Css",
+    "AZ Founder Stack-Front.md",
+    "200-Areas/Frontend/Javascript/Variables.md",
+    "200-Areas/Frontend/Javascript/Características del lenguaje.md",
+    "Tareas.md",
+    "Cheat Sheet.md",
+    "200-Areas/Languages/Conceptos/Convensiones.md",
+    "200-Areas/Languages/Conceptos/Programación Orientada a Objetos - POO.md",
+    "Consultas SQL.md",
     "200-Areas/Frontend/Javascript/DOM.md",
+    "200-Areas/Frontend/Javascript/Funciones.md",
     "200-Areas/Frontend/Javascript/Bucles.md",
     "200-Areas/Frontend/Javascript/Condicionales.md",
     "200-Areas/Frontend/Javascript/Operadores.md",
-    "200-Areas/Frontend/Javascript/Tipo de datos.md",
-    "200-Areas/Frontend/Javascript/Variables.md",
     "200-Areas/Languages/Conceptos/Métodos HTTP.md",
-    "Consultas SQL.md",
-    "Tareas.md",
     "200-Areas/Frontend/Javascript/EMAC Script.md",
     "200-Areas/Frontend/Javascript/Javascript.md",
-    "200-Areas/Languages/Conceptos/Convensiones.md",
-    "200-Areas/Languages/Conceptos/Programación Orientada a Objetos - POO.md",
     "200-Areas/Languages/Conceptos/Refactorización.md",
     "200-Areas/Languages/Conceptos",
     "200-Areas/Frontend/Javascript",
     "200-Areas/Frontend/Frontend.md",
     "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
     "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
-    "Sin título.md",
     "200-Areas/Data/Clausulas Sql/SQL.md",
     "200-Areas/Terminal/Ambientes virtuales.md",
-    "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md",
-    "test obsidian.md",
-    "Formulas M.md",
-    "Formulas DAX.md",
-    "200-Areas/Terminal/Git.md"
+    "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md"
   ]
 }

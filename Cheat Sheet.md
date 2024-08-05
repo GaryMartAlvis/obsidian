@@ -3,6 +3,8 @@
 ![][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlshAFydFTS3k8d1PAr5OVcT1Igs9HLfaXFg&s]
 
 **Link a videos
+
+[[Conceptos de programación | cambio]] 
 ![][https://youtu.be/FEgkH9rzSa0?list=PLWUX-KZsnKXSKOjd4WIbqB5GsHORz88JS&t=370]
 
 **Renombrar en link |

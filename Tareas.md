@@ -1,7 +1,7 @@
-[L,M,M,J,V,S] Dashboard-SIG de MORA
-[L,M,M,J,V,S] Dashboard-SIG de CRÉDITO
-[L,M,M,J,V,S] Dashboard-SIG de CAPTACIONES
-[L,M,M,J,V] Reporte automatizado Lic. Pablo
+[L] Dashboard-SIG de MORA
+[L] Dashboard-SIG de CRÉDITO
+[L] Dashboard-SIG de CAPTACIONES
+[L] Reporte automatizado Lic. Pablo
 
 ---
 [-] Crear control vencimiento de DPF de ME
@@ -15,3 +15,9 @@
 	- Creditos diferidos
 	- Credito prorrogados
 [-] **Reasignación de metas de cobradores
+
+---
+
+**Notas:** Capacitación Cartera Digital 05-08-24 11:15am
+- 
+- 
