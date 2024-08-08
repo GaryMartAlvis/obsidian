@@ -1,0 +1,3 @@
+- Expressions : Expresiones - A las expresiones se les puede hacer un console.log
+- Declaration : Declaración - Crear algo que se va a referenciar en el futuro [let, const, function *, async function *, class, export/import]
+- Statement   : Declaración [if, for, else, switch]

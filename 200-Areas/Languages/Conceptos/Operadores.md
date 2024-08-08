@@ -1,0 +1,5 @@
+- Aritmeticos
+- Asignación
+- Comparación
+- Lógicos
+- Bitwise
