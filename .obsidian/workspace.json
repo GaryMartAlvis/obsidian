@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Variables.md",
+                "file": "AZ Founder/AZ Founder Stack-Front.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md",
+                "file": "AZ Founder/Ambientación de equipo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb4efdadb5320224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200-Areas/Terminal/Chocolatey.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: dato",
+                "query": "file:conver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md",
+                "file": "AZ Founder/Ambientación de equipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md",
+                "file": "AZ Founder/Ambientación de equipo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-Areas/Frontend/Javascript/Tipo de datos.md"
+                "file": "AZ Founder/Ambientación de equipo.md"
               }
             }
           }
@@ -173,20 +185,26 @@
   },
   "active": "21ce0c0883839a66",
   "lastOpenFiles": [
+    "AZ Founder/AZ Founder Stack-Front.md",
+    "200-Areas/Frontend/Javascript/Variables.md",
+    "AZ Founder/Ambientación de equipo.md",
+    "200-Areas/Terminal/Chocolatey.md",
+    "Pasted image 20240806220032.png",
+    "AZ Founder/NVM Administrador de versiones Node.js.md",
+    "200-Areas/Frontend/Javascript/Conversiones javascrip.md",
+    "AZ Founder",
+    "Sin título.md",
+    "Consultas SQL.md",
+    "Pasted image 20240805225023.png",
+    "200-Areas/Frontend/Javascript/Tipo de datos.md",
     "200-Areas/Frontend/Css/flexbox.md",
     "200-Areas/Frontend/Html/table.md",
     "200-Areas/Frontend/Html",
-    "Sin nombre",
-    "200-Areas/Frontend/Javascript/Tipo de datos.md",
     "200-Areas/Frontend/Css",
-    "AZ Founder Stack-Front.md",
-    "200-Areas/Frontend/Javascript/Variables.md",
-    "200-Areas/Frontend/Javascript/Características del lenguaje.md",
     "Tareas.md",
     "Cheat Sheet.md",
     "200-Areas/Languages/Conceptos/Convensiones.md",
     "200-Areas/Languages/Conceptos/Programación Orientada a Objetos - POO.md",
-    "Consultas SQL.md",
     "200-Areas/Frontend/Javascript/DOM.md",
     "200-Areas/Frontend/Javascript/Funciones.md",
     "200-Areas/Frontend/Javascript/Bucles.md",
@@ -199,10 +217,6 @@
     "200-Areas/Languages/Conceptos",
     "200-Areas/Frontend/Javascript",
     "200-Areas/Frontend/Frontend.md",
-    "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md",
-    "200-Areas/Data/Clausulas Sql/ALTER TABLE.md",
-    "200-Areas/Data/Clausulas Sql/SQL.md",
-    "200-Areas/Terminal/Ambientes virtuales.md",
-    "200-Areas/Data/Clausulas Sql/UNIONES DE TABLAS.md"
+    "200-Areas/Data/Clausulas Sql/ADD CONSTRAINT.md"
   ]
 }
