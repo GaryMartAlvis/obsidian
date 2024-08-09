@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-Areas/Languages/Conceptos/Operadores.md",
+                "file": "AZ Founder/Chekame.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-Areas/Languages/Conceptos/Operadores.md",
+                "file": "AZ Founder/Chekame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-Areas/Languages/Conceptos/Operadores.md",
+                "file": "AZ Founder/Chekame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-Areas/Languages/Conceptos/Operadores.md"
+                "file": "AZ Founder/Chekame.md"
               }
             }
           }
@@ -173,8 +173,16 @@
   },
   "active": "0b4151e1751227af",
   "lastOpenFiles": [
-    "200-Areas/Languages/Conceptos/Expresiones.md",
+    "Sin título.md",
+    "AZ Founder/Chekame.md",
+    "200-Areas/Terminal/Npm.md",
+    "200-Areas/Terminal/Nvm.md",
+    "200-Areas/Terminal/Expo.md",
+    "200-Areas/Frontend/React Native/Comandos terminal.md",
+    "200-Areas/Terminal/Yarn.md",
+    "200-Areas/Frontend/React Native",
     "200-Areas/Languages/Conceptos/Operadores.md",
+    "200-Areas/Languages/Conceptos/Expresiones.md",
     "200-Areas/Frontend/Javascript/Funciones.md",
     "200-Areas/Frontend/Javascript/Array.md",
     "200-Areas/Frontend/Javascript/Objetos.md",
@@ -187,7 +195,6 @@
     "AZ Founder/NVM Administrador de versiones Node.js.md",
     "200-Areas/Frontend/Javascript/Conversiones javascrip.md",
     "AZ Founder",
-    "Sin título.md",
     "Consultas SQL.md",
     "Pasted image 20240805225023.png",
     "200-Areas/Frontend/Javascript/Tipo de datos.md",
@@ -198,12 +205,6 @@
     "Tareas.md",
     "Cheat Sheet.md",
     "200-Areas/Languages/Conceptos/Convensiones.md",
-    "200-Areas/Languages/Conceptos/Programación Orientada a Objetos - POO.md",
-    "200-Areas/Frontend/Javascript/DOM.md",
-    "200-Areas/Frontend/Javascript/Bucles.md",
-    "200-Areas/Frontend/Javascript/Condicionales.md",
-    "200-Areas/Frontend/Javascript/Operadores.md",
-    "200-Areas/Languages/Conceptos/Métodos HTTP.md",
     "200-Areas/Languages/Conceptos",
     "200-Areas/Frontend/Javascript"
   ]
